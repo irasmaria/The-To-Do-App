@@ -1,2 +1,2 @@
 # The-To-Do-App
-This is the final assignment for the coding course.
+This is the final assignment for coding course.
